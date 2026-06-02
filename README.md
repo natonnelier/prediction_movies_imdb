@@ -4,7 +4,12 @@ Trabajo práctico para la **Carrera de Especialización en Inteligencia Artifici
 
 El objetivo es predecir si una película será rentable (`revenue > budget`) antes de su estreno, usando únicamente información disponible en producción: presupuesto, duración, idioma, géneros, países y productoras.
 
-**Integrantes:** Matías Guillermo Alfaro · Gonzalo Cuervo · Nicolas Alberto Tonnelier · Marina Andrea Racciatti
+**Integrantes:** 
+
+- Matías Guillermo Alfaro
+- Gonzalo Cuervo
+- Nicolas Alberto Tonnelier
+- Marina Andrea Racciatti
 
 ---
 
